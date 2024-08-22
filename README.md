@@ -6,6 +6,12 @@ A curated list of multi-frame HDR deghosting resources.
 
 | Year | Published | Paper | Code / Project Page | Keywords |
 | :--------: | :--------: | :--------: | :--------: | :--------: |
+| 2024 | CVPR | [Generating Content for HDR Deghosting from Frequency View](https://openaccess.thecvf.com/content/CVPR2024/papers/Hu_Generating_Content_for_HDR_Deghosting_from_Frequency_View_CVPR_2024_paper.pdf) | - | Diffusion Model |
+| 2024 | ECCV | [SAFNet: Selective Alignment Fusion Network for Efficient HDR Imaging](https://arxiv.org/pdf/2407.16308) | [Soon](https://github.com/ltkong218/SAFNet) | Selective alignment fusion |
+| 2023 | CVPR | [Joint HDR Denoising and Fusion: A Real-World Mobile HDR Image Dataset](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Joint_HDR_Denoising_and_Fusion_A_Real-World_Mobile_HDR_Image_CVPR_2023_paper.pdf) | [Pytorch(test only)](https://github.com/shuaizhengliu/Joint-HDRDN) | Attention-based |
+| 2023 | CVPR | [SMAE: Few-shot Learning for HDR Deghosting with Saturation-Aware Masked Autoencoders](https://openaccess.thecvf.com/content/CVPR2023/papers/Yan_SMAE_Few-Shot_Learning_for_HDR_Deghosting_With_Saturation-Aware_Masked_Autoencoders_CVPR_2023_paper.pdf) | - | Few-shot |
+| 2023 | CVPR | [A Unified HDR Imaging Method with Pixel and Patch Level](https://openaccess.thecvf.com/content/CVPR2023/papers/Yan_A_Unified_HDR_Imaging_Method_With_Pixel_and_Patch_Level_CVPR_2023_paper.pdf) | - | Attention-based |
+| 2023 | AAAI | [Improving Dynamic HDR Imaging with Fusion Transformer](https://ojs.aaai.org/index.php/AAAI/article/view/25107) | - | Transformer-based |
 | 2023 | ICCV | [Alignment-free HDR Deghosting with Semantics Consistent Transformer](https://openaccess.thecvf.com/content/ICCV2023/papers/Tel_Alignment-free_HDR_Deghosting_with_Semantics_Consistent_Transformer_ICCV_2023_paper.pdf) | [PyTorch](https://github.com/Zongwei97/SCTNet) | Non-flow based |
 | 2022 | ECCV | [Ghost-free High Dynamic Range Imaging with Context-aware Transformer](https://arxiv.org/abs/2208.05114) |[MegEngine](https://github.com/megvii-research/HDR-Transformer) </br> [PyTorch](https://github.com/liuzhen03/HDR-Transformer-PyTorch) | Transformer-based solution |
 | 2022 | CVPRW | [NTIRE 2022 Challenge on High Dynamic Range Imaging: Methods and Results](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Perez-Pellitero_NTIRE_2022_Challenge_on_High_Dynamic_Range_Imaging_Methods_and_CVPRW_2022_paper.pdf) | - | Review of the NTIRE 2022 HDR Challenge |
